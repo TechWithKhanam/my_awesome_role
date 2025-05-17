@@ -1,0 +1,4 @@
+---
+# vars file for httpd
+    http_port: 80
+    max_clients: 200
